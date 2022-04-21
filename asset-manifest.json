@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e18e7f7e.css",
+    "main.js": "/static/js/main.d084faf3.js",
+    "static/js/787.910f093f.chunk.js": "/static/js/787.910f093f.chunk.js",
+    "static/media/firstformal.jpg": "/static/media/firstformal.df2ed334f0d10adffc27.jpg",
+    "static/media/blowing.png": "/static/media/blowing.93edf4765810a93dd98f.png",
+    "static/media/firstdate.JPG": "/static/media/firstdate.c7c77f65294ff4691dc9.JPG",
+    "static/media/shakeshack.jpeg": "/static/media/shakeshack.ef4f99c3fdf66aa9a763.jpeg",
+    "static/media/boating.jpeg": "/static/media/boating.0df605ffd46d68bf7d10.jpeg",
+    "static/media/secondformal.jpeg": "/static/media/secondformal.c365518d2dd5165482f2.jpeg",
+    "static/media/getty.jpeg": "/static/media/getty.0771d0c1caf1fd00c019.jpeg",
+    "static/media/monke.jpeg": "/static/media/monke.8f1661f04b94b69dab5d.jpeg",
+    "static/media/skating.JPG": "/static/media/skating.882a39e12d7e47e1cc4f.JPG",
+    "static/media/farming.jpeg": "/static/media/farming.35027bc7caeb008f12ab.jpeg",
+    "static/media/valentines.jpeg": "/static/media/valentines.29e88309197be347e368.jpeg",
+    "static/media/car.jpeg": "/static/media/car.45bfc842eaedc6a4f123.jpeg",
+    "static/media/karting.JPG": "/static/media/karting.5099eefc5b685cd7fee2.JPG",
+    "static/media/heygirlfriend.png": "/static/media/heygirlfriend.c8bb38b275aad7b80491.png",
+    "static/media/heyboyfriend.png": "/static/media/heyboyfriend.da001fe07f4e521abad3.png",
+    "index.html": "/index.html",
+    "main.e18e7f7e.css.map": "/static/css/main.e18e7f7e.css.map",
+    "main.d084faf3.js.map": "/static/js/main.d084faf3.js.map",
+    "787.910f093f.chunk.js.map": "/static/js/787.910f093f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18e7f7e.css",
+    "static/js/main.d084faf3.js"
+  ]
+}
